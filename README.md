@@ -8,4 +8,6 @@ Instructions:
 
 Download the zip & extract<br>
 copy buildc.exe filepath & add it to environmental path variable<br>
-compile using "buildc" command (there should be at least two files in the working directory)
+compile using "buildc" command <br>
+
+fixed : there should be at least two files in the working directory
